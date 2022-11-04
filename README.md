@@ -1,2 +1,2 @@
 # Explorer
-Python file explorer using GTK
+Cross platform file explorer using python and GTK4
